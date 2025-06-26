@@ -1,2 +1,2 @@
 # Music-Player
-Task 03 from code alpha company
+Task 03 from CodeAlpha 
